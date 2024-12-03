@@ -1,5 +1,5 @@
 # GitStart
 Git Learn <br>
-author --Rohit Gade
+author --Rohit Gade <br>
 company --krios <br>
 from nashik
